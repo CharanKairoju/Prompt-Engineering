@@ -1,4 +1,4 @@
-<h2 align="center">Awesome Prompt Engineering 🧙‍♂️ </h2>
+<h2 align="center">Prompt Engineering 🧙‍♂️ </h2>
 
 <p align="center">
   <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
